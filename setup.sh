@@ -1,5 +1,6 @@
 #!/bin/sh
 set -e
 BASEDIR=$(dirname "$0")
-ln -s '$BASEDIR/spacemacs' '$HOME/.emacs.d'
-ln -s '$BASEDIR/.spacemacs' '$HOME/.spacemacs'
+
+ln -s "$BASEDIR/spacemacs" "$HOME/.emacs.d"
+ln -s "$BASEDIR/.spacemacs" "$HOME/.spacemacs"

@@ -3,7 +3,7 @@
 ## Installation
 
 1. Install `emacs`
-  * [Ubuntu PPA](https://launchpad.net/~kelleyk/+archive/ubuntu/emacs)
+    * [Ubuntu PPA](https://launchpad.net/~kelleyk/+archive/ubuntu/emacs)
 
 1. Install the the [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 1. Clone this repository, including submodules.

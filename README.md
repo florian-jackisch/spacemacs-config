@@ -13,7 +13,7 @@
     
 1. Link configuration files:
     ```
-    $  ./setup.sh
+    $ ./setup.sh
     ```
     
 1. Start `emacs`. This will download your packages.

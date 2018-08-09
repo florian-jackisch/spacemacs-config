@@ -42,7 +42,8 @@ This function should only modify configuration layer settings."
      neotree
      org
      (python :variables
-             python-backend 'anaconda)
+             python-backend 'anaconda
+             python-test-runner 'pytest)
      (shell :variables
             shell-default-height 30
             shell-default-position 'bottom)

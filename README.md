@@ -4,6 +4,11 @@
 
 1. Install `emacs`
     * [Ubuntu PPA](https://launchpad.net/~kelleyk/+archive/ubuntu/emacs)
+    * macOS:
+        ```bash
+        $ brew install emacs-plus
+        $ ln -s /usr/local/opt/emacs-plus/Emacs.app/ /Applications/
+        ```
 
 1. Install the the [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 1. Clone this repository, including submodules.
@@ -12,7 +17,7 @@
     ```
     
 1. Link configuration files:
-    ```
+    ```bash
     $ ./setup.sh
     ```
     

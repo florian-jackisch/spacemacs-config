@@ -42,7 +42,6 @@ This function should only modify configuration layer settings."
      helm
      imenu-list
      markdown
-     neotree
      org
      osx
      (python :variables
